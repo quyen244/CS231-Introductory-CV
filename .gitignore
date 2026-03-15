@@ -1,8 +1,12 @@
+# dataset
+HoaVietNam2026/
 
+# virtual environment
+venv/
 
+# python cache
+__pycache__/
+*.pyc
 
-/HoaVietNam2026 
-
-
-/venv 
-
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
