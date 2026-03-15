@@ -1,0 +1,10 @@
+# machine learning 
+ipykernel
+scikit-learn 
+
+# image processing 
+opencv-python
+Pillow
+
+# visualization 
+matplotlib
